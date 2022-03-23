@@ -1,1 +1,1 @@
-Linear Regression on swedish car insurance 
+Linear Regression on Swedish Car Insurance 
